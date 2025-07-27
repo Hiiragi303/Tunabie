@@ -54,6 +54,7 @@ GAS（Google Apps Script）とGemini APIを活用し、ユーザーが送った�
 ---
 
 ## 📁 フォルダ構成（例）
+```
 ├── Code.gs # メイン処理（doPost）
 ├── Reply.gs # Lineへの返信処理
 ├── Gemini.gs # GeminiAPIの処理
@@ -66,3 +67,15 @@ GAS（Google Apps Script）とGemini APIを活用し、ユーザーが送った�
     └── images
           └── imageResponse.png
 └── README.md # このファイル
+```
+
+---
+
+## 🛠 今後の展望（アイデア）
+
+- ゴミ出しカレンダーとの連携
+- 自治体ごとの分別ルールへの対応
+- 英語対応、多言語化
+- レスポンス速度向上
+
+---
