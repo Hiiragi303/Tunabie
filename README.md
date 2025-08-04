@@ -63,9 +63,6 @@ GAS（Google Apps Script）とGemini APIを活用し、ユーザーが送った�
 ├── Parse.gs # JSONのパース処理
 ├── TrashDetecter.gs # 画像からゴミの検出処理
 ├── ClassPredicter.gs # ゴミの分類の判定処理
-├── demo
-    └── images
-          └── imageResponse.png
 └── README.md # このファイル
 ```
 
